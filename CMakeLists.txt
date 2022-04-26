@@ -3,4 +3,4 @@ project(interpreter)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(interpreter main.cpp parser.h bitsStdcpp.h)
+add_executable(interpreter main.cpp bitsStdcpp.h)
